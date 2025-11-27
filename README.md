@@ -1,3 +1,5 @@
+*HOld* because compose multipaltform is not ready to production(I feel).
+
 # TODOS
 - show an image
 - how to design menu
